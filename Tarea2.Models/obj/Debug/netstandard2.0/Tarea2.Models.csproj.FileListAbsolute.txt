@@ -1,0 +1,5 @@
+C:\Users\JV\Google Drive\Dip. Programacion C# (ASP)\Unidad 3\Semana 4.Tareas\Tarea2\Tarea2\Tarea2.Models\bin\Debug\netstandard2.0\Tarea2.Models.deps.json
+C:\Users\JV\Google Drive\Dip. Programacion C# (ASP)\Unidad 3\Semana 4.Tareas\Tarea2\Tarea2\Tarea2.Models\bin\Debug\netstandard2.0\Tarea2.Models.dll
+C:\Users\JV\Google Drive\Dip. Programacion C# (ASP)\Unidad 3\Semana 4.Tareas\Tarea2\Tarea2\Tarea2.Models\obj\Debug\netstandard2.0\Tarea2.Models.csprojAssemblyReference.cache
+C:\Users\JV\Google Drive\Dip. Programacion C# (ASP)\Unidad 3\Semana 4.Tareas\Tarea2\Tarea2\Tarea2.Models\obj\Debug\netstandard2.0\Tarea2.Models.AssemblyInfoInputs.cache
+C:\Users\JV\Google Drive\Dip. Programacion C# (ASP)\Unidad 3\Semana 4.Tareas\Tarea2\Tarea2\Tarea2.Models\obj\Debug\netstandard2.0\Tarea2.Models.AssemblyInfo.cs

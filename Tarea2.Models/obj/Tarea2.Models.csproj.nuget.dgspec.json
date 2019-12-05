@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\JV\\Google Drive\\Dip. Programacion C# (ASP)\\Unidad 3\\Semana 4.Tareas\\Tarea2\\Tarea2\\Tarea2.Models\\Tarea2.Models.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\JV\\Google Drive\\Dip. Programacion C# (ASP)\\Unidad 3\\Semana 4.Tareas\\Tarea2\\Tarea2\\Tarea2.Models\\Tarea2.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JV\\Google Drive\\Dip. Programacion C# (ASP)\\Unidad 3\\Semana 4.Tareas\\Tarea2\\Tarea2\\Tarea2.Models\\Tarea2.Models.csproj",
+        "projectName": "Tarea2.Models",
+        "projectPath": "C:\\Users\\JV\\Google Drive\\Dip. Programacion C# (ASP)\\Unidad 3\\Semana 4.Tareas\\Tarea2\\Tarea2\\Tarea2.Models\\Tarea2.Models.csproj",
+        "packagesPath": "C:\\Users\\JV\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JV\\Google Drive\\Dip. Programacion C# (ASP)\\Unidad 3\\Semana 4.Tareas\\Tarea2\\Tarea2\\Tarea2.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

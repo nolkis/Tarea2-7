@@ -1,0 +1,11 @@
+C:\Users\JV\Google Drive\Dip. Programacion C# (ASP)\Unidad 3\Semana 4.Tareas\Tarea2\Tarea2\Tarea2Models\bin\Debug\Tarea2Models.dll.config
+C:\Users\JV\Google Drive\Dip. Programacion C# (ASP)\Unidad 3\Semana 4.Tareas\Tarea2\Tarea2\Tarea2Models\bin\Debug\Tarea2Models.dll
+C:\Users\JV\Google Drive\Dip. Programacion C# (ASP)\Unidad 3\Semana 4.Tareas\Tarea2\Tarea2\Tarea2Models\bin\Debug\Tarea2Models.pdb
+C:\Users\JV\Google Drive\Dip. Programacion C# (ASP)\Unidad 3\Semana 4.Tareas\Tarea2\Tarea2\Tarea2Models\bin\Debug\EntityFramework.dll
+C:\Users\JV\Google Drive\Dip. Programacion C# (ASP)\Unidad 3\Semana 4.Tareas\Tarea2\Tarea2\Tarea2Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JV\Google Drive\Dip. Programacion C# (ASP)\Unidad 3\Semana 4.Tareas\Tarea2\Tarea2\Tarea2Models\bin\Debug\EntityFramework.xml
+C:\Users\JV\Google Drive\Dip. Programacion C# (ASP)\Unidad 3\Semana 4.Tareas\Tarea2\Tarea2\Tarea2Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JV\Google Drive\Dip. Programacion C# (ASP)\Unidad 3\Semana 4.Tareas\Tarea2\Tarea2\Tarea2Models\obj\Debug\Tarea2Models.csprojAssemblyReference.cache
+C:\Users\JV\Google Drive\Dip. Programacion C# (ASP)\Unidad 3\Semana 4.Tareas\Tarea2\Tarea2\Tarea2Models\obj\Debug\Tarea2Models.csproj.CopyComplete
+C:\Users\JV\Google Drive\Dip. Programacion C# (ASP)\Unidad 3\Semana 4.Tareas\Tarea2\Tarea2\Tarea2Models\obj\Debug\Tarea2Models.dll
+C:\Users\JV\Google Drive\Dip. Programacion C# (ASP)\Unidad 3\Semana 4.Tareas\Tarea2\Tarea2\Tarea2Models\obj\Debug\Tarea2Models.pdb
